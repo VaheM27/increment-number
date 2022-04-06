@@ -1,0 +1,12 @@
+<div style="text-align: center">
+  <button type="button" (click)="showSection()">Show info</button>
+</div>
+
+<div *ngIf="showInfo">
+  <h3>Increment or Decrement number!</h3>
+  <p>
+    {{ num }}
+  </p>
+  <button type="text" (click)="setIncrement()">Increment</button>
+  <button type="text" (click)="setDecrement()">Decrement</button>
+</div>

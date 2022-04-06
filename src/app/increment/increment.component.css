@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+}
+button{
+      border-radius: 20px;
+      width: 100px;
+      height: 40px;
+      border: none;
+      background-color: beige;
+}
