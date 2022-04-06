@@ -1,4 +1,6 @@
 # IncrementNumber
+Short preview about project.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60319108/162068124-c25ba5a0-b8c4-452a-92d1-02b0ea3b643c.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
